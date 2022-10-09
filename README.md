@@ -18,5 +18,5 @@ Phoenix flight computer is a open source custom developed rocket controller unit
 I have faced some issue related to power supply so. I have developed version 2. I dont recommend replicating this for now 
 I better suggest to wait for the upload of version 2.
 
-##it will be uploaded soon...!
+## it will be uploaded soon...!
 
