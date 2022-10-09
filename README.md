@@ -1,4 +1,4 @@
-# PHOENIX-FLC
+# PHOENIX-FLC V1.0
 
 Phoenix flight computer is a open source custom developed rocket controller unit (RCU)
 
